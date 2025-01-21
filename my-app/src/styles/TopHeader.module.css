@@ -1,0 +1,13 @@
+.topBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #B0C4DE; /* Change to your desired color */
+    color: #202124;
+    padding: 5px 0;
+    font-size: 14px;
+  }
+  
+  .tagline {
+    margin: 0;
+  }
