@@ -1,4 +1,4 @@
-**                                     ✨Sinusoidal Functions✨**
+**✨Sinusoidal Functions✨**
 <br/>
 <br/>
 <br/>
